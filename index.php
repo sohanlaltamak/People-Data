@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <title>People Data</title>
-	<link href="css/style.css" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
   </head>
   <body>
   <?php 
